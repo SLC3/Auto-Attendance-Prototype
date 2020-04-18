@@ -1,0 +1,23 @@
+{
+  "name": "auto-attendance-prototype",
+  "version": "1.0.0",
+  "description": "Prototype Auto-Attendance taker.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLC3/Auto-Attendance-Prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLC3/Auto-Attendance-Prototype/issues"
+  },
+  "homepage": "https://github.com/SLC3/Auto-Attendance-Prototype#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
